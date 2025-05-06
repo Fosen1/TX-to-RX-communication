@@ -9,7 +9,6 @@
 
 // Funksjonprototyper
 void USART2_init(unsigned long baud);
-void USART2_sendChar(char c);
 void USART3_init(unsigned long baud);
 void USART3_sendChar(char c);
 uint8_t USART2_read();
